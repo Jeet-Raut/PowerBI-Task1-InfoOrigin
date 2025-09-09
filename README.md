@@ -3,7 +3,7 @@
 This repository contains my **first Power BI project** developed during the **InfoOrigin Data Engineering Internship**.  
 The report focuses on building a sales performance dashboard with KPIs, category breakdowns, and trends to support executive-level decision-making.
 
-## 🧠 Project Overview
+## 🧠 Project Overview        
 
 - **Internship:** InfoOrigin (Data Engineering Intern)  
 - **Task:** Power BI Dashboard – Task 1  
