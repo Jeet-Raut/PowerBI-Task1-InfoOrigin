@@ -6,7 +6,7 @@ The report focuses on building a sales performance dashboard with KPIs, category
 ## 🧠 Project Overview
 
 - **Internship:** InfoOrigin (Data Engineering Intern)  
-- **Task:** Power BI Dashboard – Task 1  
+- **Task:** Power BI Dashboard – Task 1   
 - **Author:** Jeetu Raut  
 - **Tool Used:** Power BI Desktop (.pbix)  
 - **File Name:** `PowerBi-D1-Task-1.pbix`  
